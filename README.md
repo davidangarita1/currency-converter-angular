@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Link project
 
-click here -> currencyapp-dangwebs.netlify.app
+Click here -> https://currencyapp-dangwebs.netlify.app
 
 ## Development server
 
